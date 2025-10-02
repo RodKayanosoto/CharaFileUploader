@@ -1,0 +1,2 @@
+# CharaFileUploader
+ShinEraTenseiのキャラクタデータ(冬眠キャラのデータ)を共有するためのシステム
